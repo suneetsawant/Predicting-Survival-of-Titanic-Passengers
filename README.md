@@ -1,3 +1,3 @@
-<img src=https://i.ytimg.com/vi/cMVi953awHQ/maxresdefault.jpg  width="100" height="100" hspace="20" alt="content" title="content" /> 
-
  #   Predicting Survival of Titanic Passengers
+
+This is attempt to build a learning model to identify if the passengers of sinking titanic survived. The jupyter notebook explains the EDA and process of building model.
